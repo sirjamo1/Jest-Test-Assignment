@@ -1,0 +1,14 @@
+{
+  "name": "jest-test-assignment",
+  "version": "1.0.0",
+  "description": "for the odin project",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "james howells",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2"
+  }
+}
